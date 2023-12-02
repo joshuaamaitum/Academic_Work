@@ -1,5 +1,5 @@
 # Welcome to GitHub Desktop!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Fell in love with R in 2022, after transitioning from a policy background. In this Github, you will find scripts for all personal projects I have undertaken in R, for both academic and personal endeavours.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Amaitum Joshua Elukut.
